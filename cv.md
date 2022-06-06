@@ -50,7 +50,6 @@ return a * b;
     * **Faculty of Chemical Engineering and Cybernetics, Сhemistry and biology**
     * **Department of Economy and Finance, Economy of Manufacture**
 * **Every year education in order to confirm the level of system proficiency: Yandex Direct, Google Adwords, BluePrint by Facebook, Vkontakte, etc.**
-* **American House, 2013. A2 level**
 
 
 ##**Languages**
