@@ -1,8 +1,8 @@
-#**Vladimir Stepanov**
+# **Vladimir Stepanov**
 ==================
 
 
-##**Contacts**
+## **Contacts**
 ------------------
 * **Location**: Saint-Petersburg, Russia
 * **Phone**: +7(904)594-97-53
@@ -10,32 +10,28 @@
 * **GitHub**: [Slipper08](https://github.com/Slipper08)
 
 
-##**Briefly about me**
+## **Briefly about me**
 ------------------
 * I want to acquire new competencies and apply them in real projects
 * I can study information by myself, motivated, open minded
 * Have big expierence in internet marketing sinse 2013. Worked a lot of time with programmers. So I understand what I do here.
 
-
-##**Skils**
+## **Skils**
 ------------------
-*HTML
-*CSS
-*Git/GitHub
-*Figma, Photoshop, Avocode
+* HTML
+* CSS
+* Git/GitHub
+* Figma, Photoshop, Avocode
 
-
-
-##**Code Examples**
+## **Code Examples**
 ------------------
-```
+```js
 function multiply(a, b){
 return a * b;
 }
 ```
 
-
-##**Experience**
+## **Experience**
 ------------------
 * *2011-2013* - CraftFoodsRus, Sobinka, Vladimir region, specialist of maintaining and reparing
 * *2013-2014* - Combine Digital Agency, Vladimr, spealist of marketing
@@ -43,16 +39,14 @@ return a * b;
 * *2015-2016* - Elado Manufacturing Company, Vladimir, main specialist of marketing
 * *2016-now* - self employed, specialist of marketing
 
-
-##**Education**
+## **Education**
 ------------------
 * **Ivanovo State University of Chemistry and Technology**
     * **Faculty of Chemical Engineering and Cybernetics, Сhemistry and biology**
     * **Department of Economy and Finance, Economy of Manufacture**
 * **Every year education in order to confirm the level of system proficiency: Yandex Direct, Google Adwords, BluePrint by Facebook, Vkontakte, etc.**
 
-
-##**Languages**
+## **Languages**
 -----------------
 * Russian (native)
 * English (A2)
