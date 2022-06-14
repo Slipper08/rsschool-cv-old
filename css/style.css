@@ -1,0 +1,414 @@
+/* &display=swap */
+@import 'null.css';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Roboto:wght@400;500;700;900&display=swap');
+
+body{
+	font-family: "Roboto", sans-serif;
+	background-color: #E5E5E5;
+}
+
+.wrapper {
+	min-height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+.container {
+	max-width: 1080px;
+	margin: 0px auto;
+}
+.page-header {
+}
+.header-nav {
+	width: 100%;
+	position: fixed;
+	display: flex;
+	/* justify-content: space-between; */
+	flex-wrap: wrap;
+	background-color: #e5e5e5d8;
+}
+.header-nav__item {
+	padding: 16px 20px;
+	color: #157698;
+	font-weight: 700;
+	font-size: 16px;
+}
+.page-main {
+	flex: 1 1 auto;
+	padding-top: 50px;
+	margin: 0 0 30px 0;
+}
+.content {
+}
+.intro {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 0 89px 0;
+	justify-content: space-between;
+}
+.intro__picture {
+}
+.intro__image {
+	height: 289px;
+}
+.intro__information {
+}
+.intro__name {
+	font-style: normal;
+	font-weight: 900;
+	font-size: 50px;
+	color: #157698;
+	text-transform: uppercase;
+}
+.intro__name_grey{
+	color: #A9A9A9;
+	font-weight: 300;
+}
+.intro__position{
+	font-weight: 400;
+	font-size: 20px;
+	letter-spacing: 0.005em;
+}
+.intro__position::after{
+	content: "";
+	display: block;
+	width: 730px;
+	border: 0.5px solid #999999;
+	margin: 36px 0 41px 0;
+}
+
+.intro__socials {
+	display: flex;
+}
+.intro__block::after{
+	content: "";
+	display: block;
+	width: 730px;
+	border: 0.5px solid #999999;
+	margin: 85px 0 0 0;
+}
+.intro__github::before{
+	content: "";
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	background: url('../img/git-hub.svg') 0 1px/contain no-repeat;
+}
+.intro__github {
+}
+.intro__link {
+	color: #333333;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	letter-spacing: 0.03em;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+.intro__vkontakte::before {
+	content: "";
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	background: url('../img/vkontakte.svg') 0 1px/contain no-repeat;
+}
+.intro__block ul>li {
+	margin: 0 30px 0 0;
+}
+.intro__block ul>li:last-child{
+	margin: 0;
+}
+.info-block{
+	display: flex;
+	justify-content: space-between;
+}
+.left-block {
+	flex: 0 1 290px;
+}
+.about-me {
+	margin: 0 0 50px 0;
+}
+.about-me__list {
+	margin: 0 0 38px 0;
+}
+.about-me__title {
+	font-family: "Poppins", sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	line-height: 37px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	color: #157698;
+	margin: 0 0 33px 0;
+}
+.about-me__item {
+	color: #4F4F4F;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.7;
+}
+.about-me__contact-list {
+}
+.about-me__contact-item {
+	color: #4F4F4F;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.7;
+	margin: 0 0 22px 0;
+}
+.about-me__contact-item:last-child{
+	margin: 0;
+}
+.about-me__contact-item:nth-child(1)::before{
+	content: "";
+	display: inline-block;
+	height: 12.5px;
+	width: 12.5px;
+	background: url("../img/tel.svg") 0 0/contain no-repeat;
+	margin: 0 15px 0 0;
+}
+.about-me__contact-item:nth-child(2)::before{
+	content: "";
+	display: inline-block;
+	height: 12.5px;
+	width: 12.5px;
+	background: url("../img/email.svg") 0 0/contain no-repeat;
+	margin: 0 15px 0 0;
+}
+.about-me__contact-item:nth-child(3)::before{
+	content: "";
+	display: inline-block;
+	height: 12.5px;
+	width: 12.5px;
+	background: url("../img/location.svg") 0 0/contain no-repeat;
+	margin: 0 14.5px 0 0;
+}
+
+.education {
+	margin: 0 0 50px 0;
+}
+.education__title {
+	font-family: "Poppins", sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	color: #157698;
+	margin: 0 0 32px 0;
+}
+.education__lists > li {
+	margin: 0 0 20px 0;
+}
+.education__lists > li{
+	margin: 0 0 20px 0;
+}
+.education__item {
+	color: #333333;
+	font-family: "Poppins", sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 21px;
+	align-items: center;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+}
+.education__name {
+	color: #666666;
+	text-transform:capitalize;
+	font-weight: 400;
+}
+.language {
+}
+.language__title {
+	font-family: "Poppins", sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	color: #157698;
+	margin: 0 0 33px 0;
+}
+
+.language__list {
+	color: #333333;
+}
+.language__item {
+	color: #333333;
+	font-family: "Poppins", sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 21px;
+	align-items: center;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+}
+.right-block {
+	flex: 0 1 auto;
+	width: 70%;
+}
+.experience {
+	margin: 0 0 50px 0;
+}
+.experience__title {
+	font-family: "Poppins", sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	color: #157698;
+	margin: 0 0 33px 0;
+}
+.experience__table {
+	width: 100%;
+}
+.experience__row {
+}
+.experience__job-title {
+	font-family: 'Poppins', sans-serif;
+	text-transform: uppercase;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 25px;
+	letter-spacing: 0.03em;
+	color: #333333;
+}
+.experience__cell {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 15px;
+	align-items: center;
+	letter-spacing: 0.03em;
+	color: #157698;
+}
+.technical-skills {
+	margin: 0 0 50px 0;
+}
+.technical-skills__title {
+	font-family: "Poppins", sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	color: #157698;
+	margin: 0 0 33px 0;
+}
+.technical-skills__block {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+.technical-skills__item {
+	color: #333333;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 1.7;
+	text-transform: capitalize;
+}
+.soft-skills {
+	margin: 0 0 50px 0;
+}
+.soft-skills__title {
+	font-family: "Poppins", sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	color: #157698;
+	margin: 0 0 33px 0;
+}
+.soft-skills__block {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+.soft-skills__item {
+	color: #333333;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 1.7;
+	text-transform: capitalize;
+}
+.code {
+	margin: 0 0 50px 0;
+}
+.code__title{
+	font-family: "Poppins", sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	color: #157698;
+	margin: 0 0 33px 0;
+}
+.code__example {
+}
+.hobbies {
+}
+.hobbies__title{
+	font-family: "Poppins", sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	color: #157698;
+	margin: 0 0 33px 0;
+}
+.hobbies-block {
+	display: flex;
+	width: 100%;
+	justify-content: space-around;
+}
+.hobbies-image {
+	margin: 0 0 7px 0;
+}
+.hobbies__text {
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	letter-spacing: 0.03em;
+	color: #666666;
+}
+.footer {
+}
+.footer__block {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.footer__copyright {
+	color: #333333;
+}
+.footer__list {
+	display: flex;
+	justify-content: space-between;
+	flex: 0 1 300px;
+	align-items: center;
+	color: #333333;
+	text-transform: capitalize;
+	text-decoration: underline;
+}
+.footer__title-display-block{
+	display: none;
+}
+.footer__links {
+}
+.links {
+}
+.links__item {
+	
+}
+.footer__rsschool {
+}
