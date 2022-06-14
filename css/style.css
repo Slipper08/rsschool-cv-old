@@ -249,7 +249,6 @@ body{
 }
 .right-block {
 	flex: 0 1 auto;
-	/* margin: 0 0 0 45px; */
 	width: 70%;
 }
 .experience {
