@@ -400,6 +400,9 @@ body{
 	text-transform: capitalize;
 	text-decoration: underline;
 }
+.footer__title-display-block{
+	display: none;
+}
 .footer__links {
 }
 .links {
