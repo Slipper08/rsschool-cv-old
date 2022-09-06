@@ -17,7 +17,7 @@
 * Have big expierence in internet marketing sinse 2013. Worked a lot of time with programmers. So I understand what I do here.
 
 
-##**Skils**
+## **Skils**
 ------------------
 *HTML
 *CSS
@@ -26,7 +26,7 @@
 
 
 
-##**Code Examples**
+## **Code Examples**
 ------------------
 ```
 function multiply(a, b){
@@ -35,7 +35,7 @@ return a * b;
 ```
 
 
-##**Experience**
+## **Experience**
 ------------------
 * *2011-2013* - CraftFoodsRus, Sobinka, Vladimir region, specialist of maintaining and reparing
 * *2013-2014* - Combine Digital Agency, Vladimr, spealist of marketing
