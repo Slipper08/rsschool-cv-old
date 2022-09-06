@@ -17,7 +17,11 @@
 * Have big expierence in internet marketing sinse 2013. Worked a lot of time with programmers. So I understand what I do here.
 
 
+<<<<<<< HEAD
 ##**Skils**
+=======
+## **Skils**
+>>>>>>> 025bc7fac2a95c0a058070828f8f64345a1d04c7
 ------------------
 *HTML
 *CSS
@@ -26,7 +30,11 @@
 
 
 
+<<<<<<< HEAD
 ##**Code Examples**
+=======
+## **Code Examples**
+>>>>>>> 025bc7fac2a95c0a058070828f8f64345a1d04c7
 ------------------
 ```
 function multiply(a, b){
@@ -35,7 +43,11 @@ return a * b;
 ```
 
 
+<<<<<<< HEAD
 ##**Experience**
+=======
+## **Experience**
+>>>>>>> 025bc7fac2a95c0a058070828f8f64345a1d04c7
 ------------------
 * *2011-2013* - CraftFoodsRus, Sobinka, Vladimir region, specialist of maintaining and reparing
 * *2013-2014* - Combine Digital Agency, Vladimr, spealist of marketing
@@ -44,7 +56,11 @@ return a * b;
 * *2016-now* - self employed, specialist of marketing
 
 
+<<<<<<< HEAD
 ##**Education**
+=======
+## **Education**
+>>>>>>> 025bc7fac2a95c0a058070828f8f64345a1d04c7
 ------------------
 * **Ivanovo State University of Chemistry and Technology**
     * **Faculty of Chemical Engineering and Cybernetics, Сhemistry and biology**
@@ -52,7 +68,14 @@ return a * b;
 * **Every year education in order to confirm the level of system proficiency: Yandex Direct, Google Adwords, BluePrint by Facebook, Vkontakte, etc.**
 
 
+<<<<<<< HEAD
 ##**Languages**
 -----------------
 * Russian (native)
 * English (A2)
+=======
+## **Languages**
+-----------------
+* Russian (native)
+* English (A2)
+>>>>>>> 025bc7fac2a95c0a058070828f8f64345a1d04c7
