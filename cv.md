@@ -16,6 +16,10 @@
 * I can study information by myself, motivated, open minded
 * Have big expierence in internet marketing sinse 2013. Worked a lot of time with programmers. So I understand what I do here.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> d511881 (init: start cv1)
 ## **Skils**
 ------------------
 * HTML
