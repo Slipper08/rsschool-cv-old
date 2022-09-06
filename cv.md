@@ -44,7 +44,7 @@ return a * b;
 * *2016-now* - self employed, specialist of marketing
 
 
-##**Education**
+## **Education**
 ------------------
 * **Ivanovo State University of Chemistry and Technology**
     * **Faculty of Chemical Engineering and Cybernetics, Сhemistry and biology**
@@ -52,7 +52,7 @@ return a * b;
 * **Every year education in order to confirm the level of system proficiency: Yandex Direct, Google Adwords, BluePrint by Facebook, Vkontakte, etc.**
 
 
-##**Languages**
+## **Languages**
 -----------------
 * Russian (native)
 * English (A2)
