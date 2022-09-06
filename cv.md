@@ -18,14 +18,14 @@
 
 ## **Skils**
 ------------------
-*HTML
-*CSS
-*Git/GitHub
-*Figma, Photoshop, Avocode
+* HTML
+* CSS
+* Git/GitHub
+* Figma, Photoshop, Avocode
 
 ## **Code Examples**
 ------------------
-```
+```js
 function multiply(a, b){
 return a * b;
 }
