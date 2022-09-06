@@ -17,7 +17,7 @@
 * Have big expierence in internet marketing sinse 2013. Worked a lot of time with programmers. So I understand what I do here.
 
 
-##**Skils**
+## **Skils**
 ------------------
 *HTML
 *CSS
