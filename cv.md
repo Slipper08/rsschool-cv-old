@@ -1,8 +1,8 @@
-# **Vladimir Stepanov**
+#**Vladimir Stepanov**
 ==================
 
 
-## **Contacts**
+##**Contacts**
 ------------------
 * **Location**: Saint-Petersburg, Russia
 * **Phone**: +7(904)594-97-53
@@ -10,7 +10,7 @@
 * **GitHub**: [Slipper08](https://github.com/Slipper08)
 
 
-## **Briefly about me**
+##**Briefly about me**
 ------------------
 * I want to acquire new competencies and apply them in real projects
 * I can study information by myself, motivated, open minded
@@ -19,8 +19,12 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> d511881 (init: start cv1)
 ## **Skils**
+=======
+##**Skils**
+>>>>>>> f09523e (init: start cv1)
 ------------------
 * HTML
 * CSS
